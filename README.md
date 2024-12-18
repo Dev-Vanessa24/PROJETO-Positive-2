@@ -1,4 +1,4 @@
-# 📌 Nome do Projeto  
+# 📌 Wide Coverage- Página Simples:
 
 **Descrição:**  
 Uma página web simples criada para praticar elementos de HTML e CSS.
